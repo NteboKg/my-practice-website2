@@ -30,10 +30,10 @@
   box-shadow: none;
 }
 
-.my-drawing {
+.my-pinkflower {
   transition: all .33s ease-out;
 }
 
-.my-drawing:hover {
+.my-pinkflower:hover {
   transform: scale(1.054) rotate(15deg);
 }
